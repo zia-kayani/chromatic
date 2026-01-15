@@ -1,0 +1,14 @@
+.card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  border-radius: 8px;
+  background-color: white;
+  width: 250px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+  margin: 8px;
+}
+
+.card-highlighted {
+  border-color: #2563eb;
+  background-color: #eff6ff;
+}
