@@ -9,6 +9,7 @@
 }
 
 .card-highlighted {
-  border-color: #2563eb;
+  /* border-color: #2563eb; */
+    border-color: brown;
   background-color: #eff6ff;
 }
